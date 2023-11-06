@@ -3,7 +3,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.h.camargo/)
 
 ![Camargo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhcamargo&show_icons=true&theme=transparent)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhcamargo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que estou aprendendo
